@@ -103,7 +103,6 @@ Instagram: https://www.instagram.com/prasanthi.pallaganiii/
 * Add project screenshots and case studies
 * Integrate GitHub repository links
 * Add downloadable resume section
-* Deploy live portfolio using GitHub Pages
 * Expand project portfolio with AI-based applications
 
 ---
