@@ -1,8 +1,7 @@
 # portfolio-website
 Prasanthi Pallagani Portfolio 
 
-Live link: https://prasanthipallagani9-ops.github.io/portfolio-website/
-
+](https://6a3992a2478d234630727ad2--idyllic-bombolone-84ecf2.netlify.app/)
 
 <img width="1896" height="888" alt="image" src="https://github.com/user-attachments/assets/9d9ca834-a194-4428-a81a-835c06d29c19" />
 
